@@ -1,0 +1,1 @@
+web: node ./bin/javpy.js --port $PORT --public=true
